@@ -1,0 +1,16 @@
+comandos mais utilizados até o momento:
+
+//git add//
+git add funciona para adicionar arquivos para poder realizar o commit.
+exemplo: git add . 
+(essa linha ira adicionar todos os arquivos na pasta para o proximo commit)
+
+//git commit//
+o commit vai armazenar todos os 'git add' e vai envialos como um pacote.
+exemplo: git commit -m "teste"
+(essa linha ira 'envelopar' e adicionar um comentario, deixando pronto para enviar seus arquivos ao repositorio)
+
+//git push
+o git push envia seus 'pacote' criado com o commit para o repositorio remoto!
+exemplo: git push origin/(sua branch)
+(essa linha vai enviar seu commit para o repositorio remoto direto na sua branch)
