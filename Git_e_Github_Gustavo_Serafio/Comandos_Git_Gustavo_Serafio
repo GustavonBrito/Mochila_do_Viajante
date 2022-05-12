@@ -1,0 +1,12 @@
+Clona um repositório em um diretório recém-criado.
+Git_clone   
+Git Branch -m main
+Serve para mudar para uma branch especifica
+Git init
+Serve para criar um repositório
+Git push origin main
+Serve para empurrar a versão do código
+Git status
+Pegar status 
+Git add .
+Adicionar todos os arquivos do diretório
