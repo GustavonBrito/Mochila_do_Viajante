@@ -1,0 +1,8 @@
+Comando: git clone
+Legnda: Crie uma cópia de trabalho de um repositório local
+
+Comando: git add
+Legnda: Adicione um ou mais arquivos ao teste
+
+Comando: git commit -m "Mensagem de confirmação"
+Legnda: Confirme as alterações no head (mas ainda não no repositório remoto).
